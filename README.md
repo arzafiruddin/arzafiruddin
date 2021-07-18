@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Ameen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arzafiruddin&hide=prs,issues&show_icons=true)
-![Ameen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzafiruddin&layout=compact)
+![Ameen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzafiruddin&layout=default)
